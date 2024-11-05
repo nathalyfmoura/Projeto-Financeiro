@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projeto.Fintec", "Projeto.Fintec\Projeto.Fintec.csproj", "{CAEED694-C630-4DCB-8643-D92612A9D989}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projeto.Fintec.Tests", "Projeto.Fintec.Tests\Projeto.Fintec.Tests.csproj", "{95E47962-1935-4BB3-981E-4698D2900293}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAEED694-C630-4DCB-8643-D92612A9D989}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAEED694-C630-4DCB-8643-D92612A9D989}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAEED694-C630-4DCB-8643-D92612A9D989}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAEED694-C630-4DCB-8643-D92612A9D989}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95E47962-1935-4BB3-981E-4698D2900293}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95E47962-1935-4BB3-981E-4698D2900293}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95E47962-1935-4BB3-981E-4698D2900293}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95E47962-1935-4BB3-981E-4698D2900293}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6A24D15-28D2-4F2F-813E-AEEEF87BF69E}
+	EndGlobalSection
+EndGlobal
